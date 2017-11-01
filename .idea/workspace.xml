@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75647931-d5c0-44bc-b030-1819d315222e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mandatory assignment 1/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mandatory assignment 1/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mandatory assignment 1/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mandatory assignment 1/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mandatory assignment 1/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mandatory assignment 1/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mandatory assignment 1/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mandatory assignment 1/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mandatory assignment 1/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mandatory assignment 1/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mandatory assignment 1/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mandatory assignment 1/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mandatory assignment 1/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mandatory assignment 1/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mandatory assignment 1/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mandatory assignment 1/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mandatory assignment 1/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mandatory assignment 1/js/jquery-3.2.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mandatory assignment 1/js/npm.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Components/panels.html" afterPath="$PROJECT_DIR$/Components/panels.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/index.html" afterPath="$PROJECT_DIR$/lab1/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,8 +20,8 @@
       <file leaf-file-name="panels.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Components/panels.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="55" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="7" selection-end-column="74" />
+            <state relative-caret-position="660">
+              <caret line="81" column="10" lean-forward="false" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -87,8 +70,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lab1/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            <state relative-caret-position="408">
+              <caret line="96" column="14" lean-forward="false" selection-start-line="96" selection-start-column="14" selection-end-line="96" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -127,7 +110,6 @@
         <option value="$PROJECT_DIR$/Components/breadcrumbs.css" />
         <option value="$PROJECT_DIR$/Components/breadcrumbs.html" />
         <option value="$PROJECT_DIR$/Components/panels.css" />
-        <option value="$PROJECT_DIR$/Components/panels.html" />
         <option value="$PROJECT_DIR$/Components/buttons.css" />
         <option value="$PROJECT_DIR$/Components/buttons.html" />
         <option value="$PROJECT_DIR$/Components/jumbotron.css" />
@@ -136,6 +118,7 @@
         <option value="$PROJECT_DIR$/Mandatory assignment 1/Mandatory assignment.css" />
         <option value="$PROJECT_DIR$/Mandatory assignment 1/index.html" />
         <option value="$PROJECT_DIR$/Lab 1/index.html" />
+        <option value="$PROJECT_DIR$/Components/panels.html" />
         <option value="$PROJECT_DIR$/lab1/index.html" />
       </list>
     </option>
@@ -147,8 +130,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="85" />
-    <option name="y" value="37" />
+    <option name="x" value="33" />
+    <option name="y" value="264" />
     <option name="width" value="1806" />
     <option name="height" value="960" />
   </component>
@@ -250,15 +233,15 @@
       <option name="presentableId" value="Default" />
       <updated>1509354114061</updated>
       <workItem from="1509354115186" duration="14947000" />
-      <workItem from="1509549649655" duration="2840000" />
+      <workItem from="1509549649655" duration="5796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17787000" />
+    <option name="totallyTimeSpent" value="20743000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="85" y="37" width="1806" height="960" extended-state="0" />
+    <frame x="33" y="264" width="1806" height="960" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21660034" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -460,14 +443,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Components/panels.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="55" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="7" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Components/buttons.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -500,10 +475,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Components/panels.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="81" column="10" lean-forward="false" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lab1/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        <state relative-caret-position="408">
+          <caret line="96" column="14" lean-forward="false" selection-start-line="96" selection-start-column="14" selection-end-line="96" selection-end-column="14" />
           <folding />
         </state>
       </provider>
