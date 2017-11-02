@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75647931-d5c0-44bc-b030-1819d315222e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BootstrapCSS/forms.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BootstrapCSS/helperclasses.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BootstrapCSS/helperclasses.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BootstrapCSS/responsive images/images.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grid-system/.idea/workspace.xml" afterPath="$PROJECT_DIR$/grid-system/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab1/index.html" afterPath="$PROJECT_DIR$/lab1/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -64,8 +60,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lab1/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="5" selection-end-column="70" />
+            <state relative-caret-position="1647">
+              <caret line="108" column="10" lean-forward="false" selection-start-line="108" selection-start-column="10" selection-end-line="108" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -163,7 +159,6 @@
         <option value="$PROJECT_DIR$/Mandatory assignment 1/index.html" />
         <option value="$PROJECT_DIR$/Lab 1/index.html" />
         <option value="$PROJECT_DIR$/Components/panels.html" />
-        <option value="$PROJECT_DIR$/lab1/index.html" />
         <option value="$PROJECT_DIR$/Bootstrap CSS/tables.html" />
         <option value="$PROJECT_DIR$/BootstrapCSS/tables.html" />
         <option value="$PROJECT_DIR$/BootstrapCSS/images.html" />
@@ -171,6 +166,7 @@
         <option value="$PROJECT_DIR$/BootstrapCSS/forms.html" />
         <option value="$PROJECT_DIR$/BootstrapCSS/helperclasses.html" />
         <option value="$PROJECT_DIR$/BootstrapCSS/helperclasses.css" />
+        <option value="$PROJECT_DIR$/lab1/index.html" />
       </list>
     </option>
   </component>
@@ -180,10 +176,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="82" />
-    <option name="y" value="56" />
-    <option name="width" value="1699" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="94" />
+    <option name="width" value="1540" />
     <option name="height" value="960" />
   </component>
   <component name="ProjectView">
@@ -296,17 +291,18 @@
       <option name="presentableId" value="Default" />
       <updated>1509354114061</updated>
       <workItem from="1509354115186" duration="14947000" />
-      <workItem from="1509549649655" duration="16637000" />
+      <workItem from="1509549649655" duration="19680000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31584000" />
+    <option name="totallyTimeSpent" value="34627000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="82" y="56" width="1699" height="960" extended-state="0" />
+    <frame x="94" y="0" width="1540" height="960" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23062953" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25519088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -595,8 +591,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lab1/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="5" selection-end-column="70" />
+        <state relative-caret-position="1647">
+          <caret line="108" column="10" lean-forward="false" selection-start-line="108" selection-start-column="10" selection-end-line="108" selection-end-column="10" />
           <folding />
         </state>
       </provider>
