@@ -1,0 +1,24 @@
+#Logo {
+    height: 50px;
+}
+
+.navbar-brand {
+    height: 100px;
+}
+
+div[class^="col-"] {
+
+}
+
+.glyphicons-meditation {
+    font-size: 30px;
+}
+
+.container {
+    padding-top: 20px;
+}
+
+
+.row {
+    margin-bottom: 30px;
+}

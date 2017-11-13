@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../lab2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../lab2/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="index.css">
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taktil massage</title>
+</head>
+<body>
+
+<div class="container">
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed"
+                        data-toggle="collapse"
+                        data-target="#navbar"
+                        aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <div class="navbar-brand">
+                    <a href="index.html"><img alt="Brand" id="Logo" src="images/massage-logo.png"></a>
+                    Veronikas Massage Center
+                </div>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="treatments.html">Treatments
+                            <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li class="dropdown-header"><a href="treatments.html">Our treatments</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="classic-massage.html">Classic massage</a></li>
+                            <li class="active"><a href="taktil-massage.html">Taktil massage</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <ol class="breadcrumb">
+        <li><a href="index.html"><span class="glyphicon glyphicon-home"></span> Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="treatments.html">Our treatments</a></li>
+        <li><a href="classic-massage.html">Classic massage</a></li>
+        <li class="active">Taktil massage</li>
+    </ol>
+
+    <div class="container">
+        <div class="row">
+            <h2 class="text-center">Taktil massage</h2><hr>
+            <div class="col-sm-6">
+                <img class="img-responsive" src="images/taktilmassage.jpg">
+            </div>
+            <div class="col-sm-6">
+                <p class="lead">Prova en behandling med taktil massage och upptäck dess välgörande
+                    effekter. Du bokar tid genom att fylla i formuläret nedan och välja önskad
+                    tid. Det går även bra att ställa frågor till oss innan du bokar.
+                    Antingen via formuläret eller om ni kontaktar oss via telefon. Vi önskar dig
+                    mycket njutning med din behandling!</p>
+            </div>
+        </div>
+    </div>
+    <hr>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-md-offset-3">
+                <form>
+                    <div class="form-group">
+                        <label for="fullName">Full name</label>
+                        <input type="text" class="form-control" id="fullName">
+                    </div>
+                    <div class="form-group">
+                        <label for="emailAddress">Email address</label>
+                        <input type="email" class="form-control" id="emailAddress">
+                    </div>
+                    <div class="form-group">
+                        <label for="date">Date</label>
+                        <input type="text" class="form-control" id="date">
+                    </div>
+                    <div class="form-group">
+                        <label for="message">Message</label>
+                        <textarea class="form-control" id="message"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-success">Skicka bokningsförfrågan!</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+</div>
+</body>
+</html>
